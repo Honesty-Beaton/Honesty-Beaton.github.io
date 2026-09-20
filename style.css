@@ -186,7 +186,7 @@ footer a:hover {
 .cat-container {
     position: absolute;
     left: 0;
-    bottom: -200px;
+    bottom: -25px;
     width: 100%;
     height: 100px;
     z-index: 4;
